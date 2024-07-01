@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **mostafayasseen333@gmail.com**
 
-- 📄 Know about my experiences [file:///E:/my%20word%20and%20pdf%20files/Mostafa_Yassin_CV.pdf](file:///E:/my%20word%20and%20pdf%20files/Mostafa_Yassin_CV.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/mostafa-yassin-778792258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mostafa-yassin-778792258" height="30" width="40" /></a>
