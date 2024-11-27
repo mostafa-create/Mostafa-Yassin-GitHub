@@ -1,24 +1,42 @@
-<h1 align="center">Hi 👋, I'm Mostafa Yassin</h1>
-<h3 align="center">CS student & Competitive Programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-create&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-create" /> </p>
-
-- 📫 How to reach me **mostafayasseen333@gmail.com**
-
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://linkedin.com/in/mostafa-yassin-778792258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-yassin-778792258" height="30" width="40" /></a>
-<a href="https://fb.com/100005833392012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100005833392012" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mentgreen10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mentgreen10" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mentgreen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mentgreen" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm <i><b>Mostafa Yassin</b></i> </h1>
+<h3 align="center">  Mentor at ICPC Sohag Community | Competitive programmer | CS Student  </h3>
+<h3 align="center">  BackEnd .Net  </h3>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</a>
+  
+<h1 align="middel">My accounts :</h1>
+<p align="middel">
+<a href="https:/www.linkedin.com/in/mostafa-yassin-778792258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mostafa Yassin" height="60" width="70" /></a>
+<a href="https://www.facebook.com/profile.php?id=100005833392012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mostafa Yassin" height="60" width="70" /></a>
+<a href="https://codeforces.com/profile/Mentgreen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Mentgreen" height="60" width="70" /></a>
+<a href="https://leetcode.com/u/Mostafa_Yassin10/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="Mostafa_Yassin10" height="60" width="70" /></a>
+  
+</p>
+<h1 align="middel">Languages and Tools:</h1>
+<p align="middel"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
+<a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="cplusplus" width="60" height="60"/> </a>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="MSSQL" height="80" width="80" />
 </p>
 
-<h1 align="left">Languages and Tools:</h1>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+<b><img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="35"> Github Stats </b>
+<br>
+<div align="center">
+<a href="https://github.com/mostafa-create">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-create&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-create&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="EslamAymann22"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-create&show_icons=true&locale=en&layout=compact" alt="mostafa-create" /></p>
+</a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-create&show_icons=true&locale=en" alt="mostafa-create" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-create&" alt="mostafa-create" /></p>
+<div align='left'>
+
+<ul>
+
+<div align='center'>
